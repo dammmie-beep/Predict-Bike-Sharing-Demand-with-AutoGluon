@@ -1,9 +1,5 @@
 # Bike-Sharing-Demand-with-AutoGluon
 
-Here’s a README that you can use for your project based on the provided requirements:
-
----
-
 # AutoGluon Tabular Prediction Project
 
 This project focuses on creating and analyzing features, training a tabular prediction model using AutoGluon, and evaluating its performance through Kaggle submissions. The following sections outline the key steps involved in feature creation, model training, and evaluation.
@@ -50,7 +46,3 @@ This project focuses on creating and analyzing features, training a tabular pred
 
 ### Hyperparameter Tuning Analysis
 - **Hyperparameter Impact:** The report contains a detailed table outlining the different hyperparameters used in each model iteration along with the corresponding Kaggle scores. It also includes an explanation of why certain hyperparameter changes led to improved or diminished performance, providing insights into the model's behavior.
-
----
-
-This README gives an overview of the project’s workflow, from feature engineering to model evaluation, and explains the key steps that led to the final results. You can expand on this with more specifics from your project, especially the exact features you engineered and the hyperparameters you tuned.
