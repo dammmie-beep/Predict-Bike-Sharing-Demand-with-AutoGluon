@@ -1,7 +1,5 @@
 # Bike-Sharing-Demand-with-AutoGluon
 
-# AutoGluon Tabular Prediction Project
-
 This project focuses on creating and analyzing features, training a tabular prediction model using AutoGluon, and evaluating its performance through Kaggle submissions. The following sections outline the key steps involved in feature creation, model training, and evaluation.
 
 ## 1. Feature Creation and Data Analysis
